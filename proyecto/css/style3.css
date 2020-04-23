@@ -1,0 +1,42 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+body{
+	background-color: #ECFBFF;
+}
+
+header{
+	width: 900px;
+	height: 100px;
+	border: 0px solid #000;
+}
+
+#logo{
+	
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.menu{
+	width: 200px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #006699;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 250px;
+}
+.parrafo{
+	color: black;
+	text-align: justify;
+}

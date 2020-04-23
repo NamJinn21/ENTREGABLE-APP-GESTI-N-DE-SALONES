@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 250%;
+    color: white;
+    
+  }
